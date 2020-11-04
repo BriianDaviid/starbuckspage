@@ -1,7 +1,7 @@
 
         function imgSlider(anything){
             var img = document.querySelector('.starbucks');
-            document.querySelector('.starbucks').src = 'img/' + anything;
+            document.querySelector('.starbucks').src = anything;
         }
 
 
